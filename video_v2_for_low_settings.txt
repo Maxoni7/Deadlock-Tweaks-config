@@ -3,8 +3,8 @@
 "video.cfg"
 {
 	"Version"		"20"
-	"VendorID"		""
-	"DeviceID"		""
+	"VendorID"		"4318"
+	"DeviceID"		"8583"
 	"setting.mat_antialias" "0"       			 	// Disable all forms of antialiasing
 	"setting.mat_shadowstate" "0"      				// Disable shadow calculations for better performance
 	"setting.mat_specular" "0"         				// Disable shiny effects to reduce GPU load
@@ -15,9 +15,9 @@
 	"setting.gpu_mem_level"		"0"
 	"setting.gpu_level"		"0"
 	"setting.knowndevice"		"0"
-	"setting.defaultres"		"1920"
-	"setting.defaultresheight"		"1080"
-	"setting.refreshrate_numerator"		"360"
+	"setting.defaultres"		"1680"
+	"setting.defaultresheight"		"1050"
+	"setting.refreshrate_numerator"		"164917"
 	"setting.refreshrate_denominator"		"1"
 	"setting.fullscreen"		"1"
 	"setting.coop_fullscreen"		"0"
